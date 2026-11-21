@@ -18,3 +18,5 @@ The purpose of this repository is to:
 
 ## Author
 Aspiring Computer Scientist | Interested in Programming, Cybersecurity and Artificial Intelligence.
+
+My first local change using Git and VS Code
